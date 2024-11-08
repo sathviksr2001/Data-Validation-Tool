@@ -33,4 +33,4 @@ DataQualityValidator is a Python tool for validating and assessing the quality o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sathviksr/DataQualityValidator.git
+   git clone https://github.com/sathviksr2001/DataQualityValidator.git
