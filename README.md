@@ -14,3 +14,23 @@ A simple Java tool to validate various types of data including emails, phone num
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+
+
+# DataQualityValidator
+
+DataQualityValidator is a Python tool for validating and assessing the quality of data in a pandas DataFrame. It provides functionalities for checking missing values, duplicates, outliers, and schema validation, making it a useful addition for data preprocessing and data pipeline stages.
+
+## Features
+
+- **Missing Values Check**: Identify columns with missing values above a specified threshold.
+- **Duplicate Rows Check**: Detect duplicate rows within specified columns or across the entire dataset.
+- **Outlier Detection**: Identify outliers in numerical columns based on a standard deviation threshold.
+- **Schema Validation**: Validate column data types against an expected schema.
+- **Comprehensive Validation Summary**: Get a detailed report of validation results.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/username/DataQualityValidator.git
